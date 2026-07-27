@@ -5,7 +5,7 @@
  * CLASS    : SYBSc.CS (Semester 3)
  * COLLAGE  : Ahmednagar College
  * GITHUB REPOSITORY  : https://github.com/jotiprakashzagade/data-structures-algorithms-c-cpp
- * FILE LINK : 
+ * FILE LINK : https://github.com/jotiprakashzagade/data-structures-algorithms-c-cpp/edit/main/02-ARRAYS-AND-STRINGS/01-Array-ADT/00_ARRAY_ADT.c
  * LANGUAGE : C
  * 
  * OPERATIONS IMPLEMENTED:
