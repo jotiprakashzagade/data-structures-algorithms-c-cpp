@@ -6,12 +6,12 @@ Welcome to my DSA practice repository! This is a dedicated space tracking my lea
 
 ## 🚀 Currently Learning
 - [x] C/C++ Fundamentals & Pointers
-- [x] Arrays & Basic Operations
-- [ ] Strings
+- [] Arrays & Basic Operations
+- [] Strings
 - [ ] Recursion
 - [ ] Linked Lists
 - [ ] Stacks & Queues
-- [ ] Trees & Binary Search Trees
+- [ ] Trees & Binary Search Tree 
 - [ ] Graphs
 - [ ] Dynamic Programming
 
