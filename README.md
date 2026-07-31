@@ -6,8 +6,8 @@ Welcome to my DSA practice repository! This is a dedicated space tracking my lea
 
 ## 🚀 Currently Learning
 - [x] C/C++ Fundamentals & Pointers
-- [] Arrays & Basic Operations
-- [] Strings
+- [ ] Arrays & Basic Operations
+- [ ] Strings
 - [ ] Recursion
 - [ ] Linked Lists
 - [ ] Stacks & Queues
