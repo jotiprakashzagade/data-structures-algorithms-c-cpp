@@ -6,9 +6,9 @@ Welcome to my DSA practice repository! This is a dedicated space tracking my lea
 
 ## 🚀 Currently Learning
 - [x] C/C++ Fundamentals & Pointers
-- [ ] Arrays & Basic Operations
+- [x] Arrays & Basic Operations
 - [ ] Strings
-- [ ] Recursion
+- [x] Recursion
 - [ ] Linked Lists
 - [ ] Stacks & Queues
 - [ ] Trees & Binary Search Tree 
@@ -24,7 +24,7 @@ Welcome to my DSA practice repository! This is a dedicated space tracking my lea
 | **01-Basics** | 🟢 Completed | 5 |
 | **02-Arrays** | 🟡 In Progress | 12 |
 | **03-Strings** | 🔴 Up Next | 0 |
-| **04-Linked-Lists** | 🔴 Not Started | 0 |
+| **04-Linked-Lists** | 🟡 In Progress | 0 |
 | **05-Stacks & Queues** | 🔴 Not Started | 0 |
 
 ---
