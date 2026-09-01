@@ -5,7 +5,7 @@
  * CLASS             : SYBSc.CS (Semester 3)
  * COLLEGE           : Ahmednagar College
  * GITHUB REPO       : https://github.com/jotiprakashzagade/data-structures-algorithms-c-cpp
- * FILE LINK         : https://github.com/jotiprakashzagade/data-structures-algorithms-c-cpp/blob/main/03-LINKED-LIST/01-Singly-Linked-List/Singly_Linked_List.c
+ * FILE LINK         : https://github.com/jotiprakashzagade/data-structures-algorithms-c-cpp/blob/main/03-LINKED-LIST/00_Linked_List_ADT.cpp
  * RELATED FILE LINK : https://github.com/jotiprakashzagade/data-structures-algorithms-c-cpp/blob/main/02-ARRAYS-AND-STRINGS/01-Array-ADT/00_ARRAY_ADT.c
  * LANGUAGE          : C/C++
  * DATE              : 01-09-2026
